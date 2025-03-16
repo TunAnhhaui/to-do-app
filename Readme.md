@@ -12,9 +12,9 @@ Welcome to the To Do App Work, a website using MERN Stack. This app allows users
 
 ## Future Features
 
-- **Search Task:**Users will be able to search through their tasks using keywords, making it easy to find specific tasks based on the task title
-- **Fillter task with status:**Users will be able to filter tasks based on their status.
-- **Website Optimization:**We are working on optimizing the website to improve loading speeds, responsiveness, and performance across different devices and browsers.
+- **Search Task:** Users will be able to search through their tasks using keywords, making it easy to find specific tasks based on the task title
+- **Fillter task with status:** Users will be able to filter tasks based on their status.
+- **Website Optimization:** We are working on optimizing the website to improve loading speeds, responsiveness, and performance across different devices and browsers.
 
 ## Getting Started
 
