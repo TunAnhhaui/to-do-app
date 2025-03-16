@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .container {
+    /* max-width: 1280px;
+          width: 100%;
+          margin: 0 auto;
+          padding: 0 20px; */
+
+    @apply px-5 mx-auto w-full max-w-1480;
+  }
+
+  .modal {
+    @apply mx-auto w-full max-w-modal;
+  }
+
+  .image {
+    @apply max-w-full block object-cover;
+  }
+}
